@@ -1,2 +1,2 @@
 # BUDT704
-The repo stores the data files used in my course BUDT704.
+The repo hosts the data files used in my course BUDT704, Data Processing and Analysis in Python.
